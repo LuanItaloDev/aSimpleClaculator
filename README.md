@@ -1,1 +1,1 @@
-Calculadora feita apenas com HTML% e CSS3. 
+Calculadora feita apenas com HTML3 e CSS3. 
